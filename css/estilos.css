@@ -1,7 +1,28 @@
 body{
-	background: rgba(20,95,120,0.8);
-	border: 1px solid black;
-	color: blue;
+	background: gray;
+	/*background: rgba(20,95,120,0.8);*/
+	border: 1px solid red;
+	color: black;
 	font-size: 16px;
+	margin: 0px auto;
 	max-width: 1024px;
+}
+header{
+	border: 1px solid blue;
+	text-align: center;
+}
+header img{
+	float: right;
+	margin: -70px 20px 0px 0px;
+	width: 90px;
+}
+header nav ul li{
+	/*border: 1px solid tomato;*/
+	background: green;
+	border-radius: 10px;
+	color: white;
+	display: inline-block;
+	margin: 0px 10px 0px 0px;
+	padding: 5px 10px;
+	width: 84px;
 }
