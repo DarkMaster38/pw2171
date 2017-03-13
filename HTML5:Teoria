@@ -38,3 +38,9 @@ Tanto elementos como atributos.
 body{
 	atributo:valor;
 }
+
+Formularios
+
+procesa.html?   ?=Primer Parámetro
+
+procesa.html?nombre=fulano%20de%20tal&ncontrol=123&promedio=80
