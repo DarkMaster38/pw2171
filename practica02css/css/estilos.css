@@ -22,8 +22,14 @@ header nav ul li{
 	margin-right: 15px;
 	/*text-decoration: underline;*/
 }
+#bgoffer{
+	left: -35px;
+	position: relative;
+	top:-410px;
+}
 #primerseccion{
-	height: 328px;
+	height: 318px;
+	margin-top: 60px;
 }
 #primerseccion article{
 	display: inline-block;
@@ -38,12 +44,63 @@ header nav ul li{
 	float: right;
 }
 #secc01art01{
-	width: 50%;
+	margin-left: 30px;
+	width: 60%;
 }
 #secc01art01 img{
-	width: 100%;
+	/*width: 100%;*/
 }
 #secc01art02{
-	width: 20%;
-
+	margin-left: 50px;
+	width: 30%;
+}
+#secc01art02 ul{
+	list-style: none;
+}
+#secc01art02 ul li:before{
+	content: "• ";
+	color: #ff0099;
+}
+#segundaseccion article{
+	text-align: right;
+	padding-right: 160px;
+}
+#terceraseccion article{
+	display: inline-block;
+	vertical-align: top;
+	width: 22%;
+}
+#terceraseccion article img{
+	vertical-align: middle;
+}
+#secc03art04{
+	margin-top: 60px;
+}
+#secc03art04 input[type="button"]{
+	background: #a6de47;
+	color: white;
+	border-radius: 4px;
+}
+.colorazul,.colorrosa,.colorverde{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.colorazul{
+	color: #16bef8;
+}
+.colorrosa{
+	color: #f4a3c6;
+}
+.colorverde{
+	color: #a6de47;
+}
+.numerotelefono{
+	color: #ff0099;
+	font-size: 2em;
+	font-weight: bold;
+}
+.wecanoffer{
+	color: #ff0099;
+	font-size: 3.5em;
+	font-weight: bold;
 }
