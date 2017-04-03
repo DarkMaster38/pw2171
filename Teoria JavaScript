@@ -1,0 +1,17 @@
+JavaScript: (lenguaje de programación)
+* Se integra con HTML para validaciones.
+* LiveScript (menos poderoso)
+* Sintáxis Java. (if)
+* Punto y coma es opcional (recomienda).
+* Elimina el ocultamiento
+(se mira el codigo del lado del cliente)
+* Existe JavaScript del lado del servidor en distintas aplicaciones.
+
+
+comandos en consola de navegador (chrome)
+
+-alert("Alerta en pantalla")
+-prompt ("Escribe algo","")
+
+function suma(a,b){return a+b}
+var suma2 function (a,b){return a+b}
