@@ -7,6 +7,41 @@ img{
 	width: 200px;
 
 }
+article{
+	display: inline-block;
+	vertical-align: top;
+}
+#izquierda{
+	margin-left: -400px;
+	width: 45%;
+}
+#derecha{
+	width: 40%;
+}
 #txtNombre{
+	font-size: 2em;
+}
+#txtGenero{
+	font-size: 2em;
+}
+#txtDireccion{
+	font-size: 2em;
+}
+#txtCiudad{
+	font-size: 2em;
+}
+#txtEmail{
+	font-size: 2em;
+}
+#txtLogin{
+	font-size: 2em;
+}
+#txtBDay{
+	font-size: 2em;
+}
+#txtPhone{
+	font-size: 2em;
+}
+#txtId{
 	font-size: 2em;
 }
